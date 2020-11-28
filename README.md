@@ -6,3 +6,7 @@ This repository contains datasets of daily time-series data related to COVID-19 
 
 You can use Google Colab if you want to run the analysis without having to install anything in your computer, simply go to this URL:
 https://colab.research.google.com/github/dru-44/PDA
+
+*Youtube*
+You can use check out the project video with the following URL:
+https://youtu.be/hZA8N-oQHtI
